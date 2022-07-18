@@ -9,5 +9,5 @@ Spam and Plagiarized Submission Detection from textual PDFs for careerhackers.io
 
 
 Subtasks: 
-PDF Preprocessing? - Deskew, Denoise, etc.
-pdf2image, pymupdf; PIL, opencv, matplotlib
+* PDF Preprocessing? - Deskew, Denoise, etc.
+* pdf2image, pymupdf; PIL, opencv, matplotlib
